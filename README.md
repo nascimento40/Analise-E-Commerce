@@ -32,17 +32,7 @@ Este projeto analisa o comportamento de compra dos clientes em uma loja de cosm�
      ```
    - Os gráficos serão exibidos no navegador, permitindo interatividade para explorar os dados de cliques e compras.
 
-6. **Outros Arquivos**
-   - `notebooks/analise.ipynb`: Caso queira explorar ou testar os dados interativamente, você pode usar o Jupyter Notebook.
-
 ## Estrutura de Arquivos
 
 - `dados/`: Coloque o arquivo CSV dos dados nesta pasta.
 - `src/`: Contém os scripts para limpeza, análise e criação do painel interativo.
-- `notebooks/`: Contém um notebook Jupyter para análises adicionais, caso deseje usar.
-- `requisitos.txt`: Arquivo contendo as dependências necessárias.
-- `README.txt`: Este arquivo de instruções.
-
-## Objetivo
-
-O objetivo deste projeto é fornecer insights sobre o comportamento dos clientes para otimizar campanhas de marketing, como focar nos dias e horários de maior volume de compras.
