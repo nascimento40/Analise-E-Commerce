@@ -6,7 +6,7 @@ Este projeto analisa o comportamento de compra dos clientes em uma loja de cosm�
 
 1. **Baixe o Dataset**
    - Baixe os dados do [Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop).
-   - Cri e Coloque o arquivo de dados dentro da pasta `dados/`. Caso queira substituir os já existentes.
+   - Cri e Coloque o arquivo de dados dentro da pasta `dados/`.
 
 2. **Instale as Dependências**
     pip install pandas matplotlib seaborn plotly
